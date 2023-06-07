@@ -2,7 +2,6 @@
 
 - I am currently working as a full time Java Software Engineer
 - I am continuing to work on side projects in my free time
-  - Most of these side projects are automation oriented
 
 <!--
 **bradbalogh/bradbalogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
